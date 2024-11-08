@@ -11,3 +11,4 @@ Solis0/Solis0 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 se eliminan cambios anteriores
+estos cambios aplican para la task-002
