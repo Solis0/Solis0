@@ -10,5 +10,5 @@
 Solis0/Solis0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Se agrega task-002
-Se agregan cambios de prueba
+se eliminan cambios anteriores
+estos cambios aplican para la task-002
